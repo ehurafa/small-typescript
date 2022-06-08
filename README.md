@@ -1,2 +1,2 @@
 # small-typescript
-Small typescript course. Taught by Professor William Justen
+Small typed stroke. Taught by instructor William Justen
