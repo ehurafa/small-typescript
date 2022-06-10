@@ -53,3 +53,13 @@ let cart: object
 cart = {
     key: 1
 }
+
+
+// Type Inference
+let newmessage = "mensagem definida"
+newmessage = "string nova"
+
+window.addEventListener("click", (e) => {
+    console.log(e.target)
+    // console.log(e.foo)
+})
